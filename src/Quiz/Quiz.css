@@ -1,0 +1,20 @@
+.buttonround {
+  display: flex;
+  justify-content: center;
+}
+
+.action-button {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 100px;
+}
+
+.quiz-content {
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+    border: solid 2px grey;
+    border-radius: 20px;
+    padding: 50px;
+    font-size: 20px;
+}

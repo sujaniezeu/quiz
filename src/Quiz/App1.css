@@ -1,0 +1,30 @@
+
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+.app1{
+    min-height: 98vh;
+    border: 8px solid rgb(31, 31, 31);
+    margin:5px;
+    padding:5px;
+
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 3vw;
+    cursor: pointer;
+}
+.title{
+    text-transform: uppercase;
+    color: #6B438A;
+}
+.divider{
+    margin:10px;
+    width:100%;
+    background-color:black;
+}
